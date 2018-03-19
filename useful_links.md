@@ -4,3 +4,4 @@
   <http://latex.codecogs.com/eqneditor/editor.php>
 
 2.
+ 　$\int x_2 \mathrm{d}x$
