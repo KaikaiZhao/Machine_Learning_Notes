@@ -7,3 +7,5 @@
 <https://blog.csdn.net/u011701569/article/details/54289984>
 
 3. A useful link to download books: http://libgen.io/
+
+4. CVX is a powerful tool, if you would like to know more information concerning how to use it, please refer to: http://cvxr.com/cvx/. Practically, all convex problems that you are likely to encounter can be solved using cvx.
