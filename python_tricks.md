@@ -32,4 +32,12 @@
 32. `sum.__doc__`获取`sum`函数的文档字符串，`help(sum)`也可以
 33. 复制一个列表的副本，`n=names[:]`
 34. `*`收集其余的位置参数，返回元组；`**`收集关键字参数，返回字典
-35. 
+35. ndarray是一个通用的同构数据多维容器，所有元素必须相同类型，每个数组都有一个shape和dtype,`data.shape`,`data.dtype`
+36. 创建数组用array函数，`np.array([1,2,3],dtype=np.float64)`,`np.arange(10)`
+37. 与列表不同的是，数组切片是原始数组的视图，这意味着数据不会被复制，视图上的任何修改都会反映到源数组上。如果想要得到ndarray的一份副本而非视图，就需显式地进行复制操作，如`arr[5:8].copy()`
+38. 在一个二维数组中，各索引位置上的元素不再是标量而是一维数组，`arr2d[0][2]`等价于`arr2d[0,2]`
+39. `bools.any()`用于测试数组中是否存在一个或多个True,`bools.all()`检查数组中是否都是True;对于非布尔型数组，所有非零元素将会被当做True
+40. `np.sort()`返回的是数组的已排序副本，而就地排序则会修改数组本身`arr.sort()`
+41. 矩阵乘法，`x.dot(y)`相当于`np.dot(x,y)`
+42. `from numpy.linalg import inv,qr`,常用的`numpy.linalg`函数有diag,dot,trace,det,eig,inv,pinv,qr,svd,solve,lstsq
+43. `samples=np.random.normal(size=(4,4))`,`numpy.random`函数seed,permutation,shuffle,rand,randint,randn,binomial,normal,beta,chisquare,gamma,uniform
