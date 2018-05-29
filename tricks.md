@@ -1,4 +1,4 @@
-1. Running matlab without visual interface, which is more efficient.
+91. Running matlab without visual interface, which is more efficient.
 Run the following command first:
 matlab -nojvm
 
@@ -17,3 +17,8 @@ For more information about `python2` and `python3`, please refer to [this link](
 
 7. remove a package `sudo apt remove` or `sudo pip uninstall`
 8. If you want to download a literature on IEEE without payment, you can copy the IEEE website and paste it on [this page](http://sci-hub.hk/). `sci-hub` is a free literature-download web.
+9. When you fail to copy your files in Ubuntu to you udisk, you can follow [this link](https://www.linuxidc.com/Linux/2017-08/146450.htm), specifically:
+(1) df -h
+(2) sudo umount /media/admin/MyUDisk(don't remove your udisk from your computer in this step)
+(3) sudo dosfsck -v -a /dev/sdb1
+
