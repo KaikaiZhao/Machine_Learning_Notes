@@ -45,3 +45,5 @@ cvx_end
 5. I am running a python script and I get this error:Intel MKL FATAL ERROR: Cannot load libmkl_avx2.so or libmkl_def.so.  \ Both files are present in the anaconda2/lib directory.
 If you use conda, try with these two commands:conda install nomkl numpy scipy scikit-learn numexpr
 conda remove mkl mkl-service
+
+6. install anaconda and tensorflow, and know more about anaconda, refer to [anaconda basics](https://www.jianshu.com/p/2f3be7781451) and [installation](https://blog.csdn.net/hgdwdtt/article/details/78633232)
