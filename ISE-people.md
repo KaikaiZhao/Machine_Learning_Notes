@@ -36,5 +36,7 @@ Dedicated to developing patient-calibrated patient-calibrated mathematical model
 ## Minje Kim
 
 His research focuses on designing machine learning models applied to signal processing (e.g. audio and the other time series data), stressing their computational efficiency in the resource-constrained environments or in the implementations involving large unorganized datasets.
+
 A COMPUTER SCIENTIST WORKING ON MACHINE LEARNING AND AUDIO
 
+build machine learning models that run more efficiently during the test time and in hardware. This kind of systems range from a deep neural network and probabilistic topic models defined and operate in a bitwise fashion to a psychoacoustically informed cost function for training a less complex model that still produces perceptually equivalent results.

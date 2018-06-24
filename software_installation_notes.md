@@ -47,3 +47,5 @@ If you use conda, try with these two commands:conda install nomkl numpy scipy sc
 conda remove mkl mkl-service
 
 6. install anaconda and tensorflow, and know more about anaconda, refer to [anaconda basics](https://www.jianshu.com/p/2f3be7781451) and [installation](https://blog.csdn.net/hgdwdtt/article/details/78633232)
+7. cannot open .ipynb files with jupyter notebook, refer to https://discuss.gluon.ai/t/topic/757, https://blog.csdn.net/u013735511/article/details/79231292
+8. 
