@@ -9,7 +9,7 @@ https://www.engineering.indiana.edu/people/index.html
 Application Number: IU002353494
 Confirmation Number: 2GW03247XJ466151D
 
-Please rank your areas of interest 
+Please rank your areas of interest
 
 Bioengineering Ph.D
 Neuro-engineering Ph.D
@@ -47,7 +47,7 @@ Limited Access PIN: 38232520
 
 
 Network ID: 80001309986
-Network Identification. Network identification provides access to the Indiana University one.iu.edu portal (https://one.iu.edu ). Once you set up your Network ID, you can access a wide array of information by using our one.iu.edu portal. The one.iu.edu portal allows you to edit your mailing and email addresses. You will need to create your network identification using the Access Management System: http://itaccounts.iu.edu 
+Network Identification. Network identification provides access to the Indiana University one.iu.edu portal (https://one.iu.edu ). Once you set up your Network ID, you can access a wide array of information by using our one.iu.edu portal. The one.iu.edu portal allows you to edit your mailing and email addresses. You will need to create your network identification using the Access Management System: http://itaccounts.iu.edu
 
 Create My First IU Account
 Select Username
@@ -112,3 +112,22 @@ https://cgifederal.secure.force.com/?language=Chinese%20(Simplified)&country=Chi
 签证状态查询
 https://ceac.state.gov/CEACStatTracker/Status.aspx
 
+* computer science faculty of interest
+
+** Matthew Hahn
+*** Genomics and bioinfomatics
+
+** David Crandall(computer vision)
+
+** Qin Zhang
+*** Theoretical Foundations for Big Data: streaming/sketching algorithms, algorithms for distributed data, data structures (lower bounds), communication complexity
+*** Applied Areas: algorithms for fundamental problems in databases, data mining, machine learning and bioinformatics.
+
+** Grigory Yaroslavtsev
+*** efficient algorithms for scalable data analysis(ACM Competition)
+
+** Lei Le(PhD student, advisor Martha White)
+*** statistical machine learning, optimization and reinforcement learning
+
+** S. Cenk Sahinalp
+*** Bioinformatics and Computational Genomics
