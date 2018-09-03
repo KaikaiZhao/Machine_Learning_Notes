@@ -13,3 +13,4 @@
 5. fun applications of RNNs: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 6. Online Solution manual to Introduction to algorithms:https://ita.skanev.com/index.html
+7. An interesting personal website:https://martin-thoma.com/. If I am not busy, I should spend some time browsing it carefully.
