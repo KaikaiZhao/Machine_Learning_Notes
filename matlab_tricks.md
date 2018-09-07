@@ -17,4 +17,4 @@
 17. nnz()计算非零元素的个数，nonzeros()找出矩阵中非零元素的个数，按列优先；nzmax(s)返回非零元素所占内存大小
 18. expand(y)函数将符号多项式展开,参数是多项式的符号表示
 19. ismember(A,S)检测集合中的元素，判断A中的元素是否在S中
-20. 
+20. viscircles(centers,radii): to draw a circle in matlab
